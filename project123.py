@@ -1,3 +1,6 @@
+# pre-installed Packages are--- termcolor, getpass, PIL or PILLOW(according to your python version)
+
+
 ids=[];dict={};
 from termcolor import colored
 
